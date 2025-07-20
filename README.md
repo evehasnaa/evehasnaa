@@ -7,10 +7,11 @@
 
 ### 🌟 About Me
 
+I'm currently a Computer Science student at the Faculty of Science, with a strong passion for data analytics and storytelling with Power BI.  
 - 🎓 Graduate of [[Depi Data Analysis Program](https://www.linkedin.com/feed/update/urn:li:activity:7348820466939109377/))]
 - 📊 Currently building interactive dashboards and analytical reports in **Power BI**  
 - 🧠 Always learning something new — from **Python**, **SQL**, to **Tableau** and beyond  
-- 🤓 Naturally curious, sometimes introverted, always passionate about understanding what data is trying to say  
+- 🤓 Naturally curious, always passionate about understanding what data is trying to say  
 
 
 ---
