@@ -7,11 +7,11 @@
 
 ### 🌟 About Me
 
-- 🎓 Graduate of [Depi Data Analysis Program](https://github.com/evehasnaa/graduation-projects-for-depi?tab=readme-ov-file)  
+- 🎓 Graduate of [[Depi Data Analysis Program](https://github.com/evehasnaa/graduation-projects-for-depi?tab=readme-ov-file](https://www.linkedin.com/feed/update/urn:li:activity:7348820466939109377/))  
 - 📊 Currently building interactive dashboards and analytical reports in **Power BI**  
 - 🧠 Always learning something new — from **Python**, **SQL**, to **Tableau** and beyond  
 - 🤓 Naturally curious, sometimes introverted, always passionate about understanding what data is trying to say  
-- 🚀 Working on a [**Marketing Campaign Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTAxYzZkZTgtYzEzNS00ZTVlLTlhNTMtYmU2NjhlYmU3MTUwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9) — my most advanced Power BI project yet!
+
 
 ---
 
@@ -27,10 +27,8 @@
 ### 📫 Contact Me
 
 - Email: **hasnaaahmed745@gmail.com**  
-- [LinkedIn](https://linkedin.com/in/hasnaa-ahmed)  
-- [Twitter](https://twitter.com/cerasen7)  
-- [Leetcode](https://www.leetcode.com/hasnaa122)  
-- [Codeforces](https://codeforces.com/profile/hasnaa-ahmed-x0)
+- [LinkedIn]([https://linkedin.com/in/hasnaa-ahmed](https://www.linkedin.com/in/hasnaa-ahmed-5a648a310/))  
+
 
 ---
 
