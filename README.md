@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-- 🎓 Graduate of [[Depi Data Analysis Program](https://github.com/evehasnaa/graduation-projects-for-depi?tab=readme-ov-file](https://www.linkedin.com/feed/update/urn:li:activity:7348820466939109377/))  
+- 🎓 Graduate of [[Depi Data Analysis Program](https://www.linkedin.com/feed/update/urn:li:activity:7348820466939109377/))]
 - 📊 Currently building interactive dashboards and analytical reports in **Power BI**  
 - 🧠 Always learning something new — from **Python**, **SQL**, to **Tableau** and beyond  
 - 🤓 Naturally curious, sometimes introverted, always passionate about understanding what data is trying to say  
