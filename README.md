@@ -27,7 +27,7 @@
 ### 📫 Contact Me
 
 - Email: **hasnaaahmed745@gmail.com**  
-- [LinkedIn]([https://linkedin.com/in/hasnaa-ahmed](https://www.linkedin.com/in/hasnaa-ahmed-5a648a310/))  
+- [LinkedIn]((https://www.linkedin.com/in/hasnaa-ahmed-5a648a310/))  
 
 
 ---
