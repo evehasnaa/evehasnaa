@@ -35,18 +35,32 @@
 ### 🛠️ Tools & Technologies
 
 <p align="left">
+  <!-- Business Intelligence & BI Development -->
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_onedrive/microsoft_onedrive-icon.svg" alt="powerquery" width="40" height="40"/>
+  
+  <!-- Data Manipulation & Scripting -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  
+  <!-- Databases & Querying -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+  
+  <!-- Version Control & Visualization Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/highcharts/highcharts-original.svg" alt="highcharts" width="40" height="40"/>
+  
+  <!-- Reporting & Presentation -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="powerpoint" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="sheets" width="40" height="40"/>
 </p>
-
----
 
 ### 📈 GitHub Stats
 
