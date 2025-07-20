@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Hasnaa Ahmed</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI Developer | Curious Mind from Egypt 🇪🇬</h3>
+<h3 align="center">Aspiring Data Analyst | Power BI Developer </h3>
 
 <p align="center">🔍 Turning raw data into meaningful insights that tell a story and drive real decisions.</p>
 
@@ -54,10 +54,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 
-  <!-- Reporting & Office Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" alt="PowerPoint" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-sheets-1.svg" alt="Google Sheets" width="40" height="40"/>
+ <!-- Reporting & Office Tools -->
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" alt="PowerPoint" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" width="40" height="40"/>
 </p>
+
 
 
 ### 📈 GitHub Stats
