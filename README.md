@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋 I'm HASNAA AHMED</h1>
-<h3 align="center">A passionate Data Engineer from Egypt</h3>
+<h1 align="center">Hi 👋 I'm Hasnaa Ahmed</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI Developer | Curious Mind from Egypt 🇪🇬</h3>
 
-- 🔭 I’m currently working on [Depi graduation](https://github.com/evehasnaa/graduation-projects-for-depi?tab=readme-ov-file)
+<p align="center">🔍 Turning raw data into meaningful insights that tell a story and drive real decisions.</p>
 
-- 🌱 I’m currently learning **python ,power pi ,tabluau**
+---
 
-- 💬 Ask me about **python ,Excel ,power Bi**
+### 🌟 About Me
 
-- 📫 How to reach me **hasnaaahmed745@gmail.com**
+- 🎓 Graduate of [Depi Data Analysis Program](https://github.com/evehasnaa/graduation-projects-for-depi?tab=readme-ov-file)  
+- 📊 Currently building interactive dashboards and analytical reports in **Power BI**  
+- 🧠 Always learning something new — from **Python**, **SQL**, to **Tableau** and beyond  
+- 🤓 Naturally curious, sometimes introverted, always passionate about understanding what data is trying to say  
+- 🚀 Working on a [**Marketing Campaign Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTAxYzZkZTgtYzEzNS00ZTVlLTlhNTMtYmU2NjhlYmU3MTUwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9) — my most advanced Power BI project yet!
 
-- ⚡ Fun fact **I think I funny**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💬 Ask Me About
+
+- Power BI (DAX, Data Modelling, Visualization)
+- Excel Analytics
+- Python for Data Analysis
+- SQL & Database Queries
+
+---
+
+### 📫 Contact Me
+
+- Email: **hasnaaahmed745@gmail.com**  
+- [LinkedIn](https://linkedin.com/in/hasnaa-ahmed)  
+- [Twitter](https://twitter.com/cerasen7)  
+- [Leetcode](https://www.leetcode.com/hasnaa122)  
+- [Codeforces](https://codeforces.com/profile/hasnaa-ahmed-x0)
+
+---
+
+### 🛠️ Tools & Technologies
+
 <p align="left">
-<a href="https://twitter.com/cerasen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cerasen7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasnaa ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasnaa ahmed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hasnaa-ahmed-x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hasnaa-ahmed-x0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hasnaa122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hasnaa122" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evehasnaa&" alt="evehasnaa" /></p>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evehasnaa&theme=default" alt="GitHub Streak"/>
+</p>
