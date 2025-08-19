@@ -2,46 +2,53 @@
 
 ---
 
-# 👋 WELCOME IN HASNAA'S WORLD  
+# 👋 WELCOME IN HASNAA'S WORLD  
 ---
 
-**Aspiring Data Analyst | Power BI Developer**  
-🔍 Turning raw data into meaningful insights that tell a story and drive real decisions.  
-
----
-
-## 🌟 About Me  
-🎓 Computer Science student at Faculty of Science, Al-Azhar University.  
-📊 Passionate about Data Analysis, BI Development, and Visualization.  
-📈 Graduate of DEPI Data Analysis Program.  
-🧠 Always learning: SQL, Python, Tableau, and new tools to grow as a data-driven problem solver.  
-💡 Curious by nature & love turning raw data into actionable decisions.  
+**Aspiring Data Analyst | Power BI Developer**  
+🔍 Turning raw data into meaningful insights that tell a story and drive real decisions.  
 
 ---
 
-## 💬 Ask Me About  
-- Power BI (DAX, Data Modelling, Visualization)  
-- Excel Analytics & Dashboards  
-- Python for Data Analysis (Pandas, Matplotlib, Seaborn)  
-- SQL & Database Queries  
-- Storytelling with Data  
+## 🌟 About Me  
+🎓 Computer Science student at Faculty of Science, Al-Azhar University.  
+📊 Passionate about Data Analysis, BI Development, and Visualization.  
+📈 Graduate of DEPI Data Analysis Program.  
+🧠 Always learning: SQL, Python, Tableau, and new tools to grow as a data-driven problem solver.  
+💡 Curious by nature & love turning raw data into actionable decisions.  
 
 ---
 
-## 📫 Contact Me  
-📧 Email: **hasnaaahmed745@gmail.com**  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com)  
-💻 GitHub: [Your GitHub Profile](https://github.com)  
+## 💬 Ask Me About  
+- Power BI (DAX, Data Modelling, Visualization)  
+- Excel Analytics & Dashboards  
+- Python for Data Analysis (Pandas, Matplotlib, Seaborn)  
+- SQL & Database Queries  
+- Storytelling with Data  
 
 ---
 
-## 🛠️ Tools & Technologies  
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,anaconda,mysql,sqlite,postgres,tableau,excel,powerbi,git,github,vscode,html,css,js,react,bootstrap,figma&perline=6)](https://skillicons.dev)
+## 📫 Contact Me  
+📧 Email: **hasnaaahmed745@gmail.com**  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
+💻 GitHub: [Your GitHub Profile](https://github.com/HasnaaAhmed)  
 
 ---
 
-## 📈 GitHub Stats  
-![Hasnaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnaaAhmed&show_icons=true&theme=radical)
+## 🛠️ Tools & Technologies  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaaAhmed&layout=compact&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,anaconda,mysql,sqlite,postgres,tableau,excel,powerbi,git,github,vscode,html,css,js,react,bootstrap,figma&perline=12)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats  
+
+![Hasnaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=evehasnaa&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evehasnaa&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HasnaaAhmed&theme=radical)
