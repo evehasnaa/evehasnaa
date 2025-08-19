@@ -1,6 +1,9 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
+<img src="https://www.deviantart.com/porforever/art/Programmer-Day-601013649" width="100%" height="100%" />
 
-# 👋 أهلاً بك في عالم حسناء!  
+---
+
+# 👋 WELCOME IN HASNAA'S WORLD  
+---
 
 **Aspiring Data Analyst | Power BI Developer**  
 🔍 Turning raw data into meaningful insights that tell a story and drive real decisions.  
@@ -34,7 +37,7 @@
 
 ## 🛠️ Tools & Technologies  
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,mysql,sqlite,postgres,tableau,excel,powerbi,git,github,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,anaconda,mysql,sqlite,postgres,tableau,excel,powerbi,git,github,vscode,html,css,js,react,bootstrap,figma&perline=6)](https://skillicons.dev)
 
 ---
 
