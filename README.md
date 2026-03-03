@@ -56,12 +56,25 @@
   </a>
 </p>
 
+## 🛠️ Tools & Technologies  
+
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,anaconda,mysql,sqlite,postgres,git,github,vscode,html,css,js,react,bootstrap,figma&perline=8" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-31333F?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <br><br>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
 </p>
----
+--- 
 
 ## 📈 GitHub Stats  
 
@@ -74,3 +87,9 @@
 ## 🔥 GitHub Streaks  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evehasnaa&theme=radical)  
+
+<p align="center">
+  <a href="[(https://drive.google.com/file/d/1mzRL_Ayhu5aZETCfj3oIpQpNrkqe2JyC/view?usp=drivesdk)]ا" target="_blank">
+    <img src="https://img.shields.io/badge/Download_My_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
