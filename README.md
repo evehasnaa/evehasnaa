@@ -50,7 +50,14 @@
 
 ## 🛠️ Tools & Technologies  
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,anaconda,mysql,sqlite,postgres,tableau,excel,powerbi,git,github,vscode,html,css,js,react,bootstrap,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,anaconda,mysql,sqlite,postgres,git,github,vscode,html,css,javascript,react,bootstrap,figma&perline=8)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,mysql,sqlite,postgres,git,github,vscode,html,css,javascript,react,bootstrap,figma" />
+  <br>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
