@@ -40,13 +40,12 @@
 
 ## 📫 Contact Me  
 
-📧 Email: **hasnaaahmed745@gmail.com**  
+📧 Email: **hasnaaahmed745@gmail.com** 
+🔗 LinkedIn: **[Hasnaa Ahmed](https://www.linkedin.com/in/hasnaa-ahmed-data-analysis)** 
+💻 GitHub: **[evehasnaa](https://github.com/evehasnaa)**
 
-🔗 LinkedIn: [Hasnaa Ahmed](https://linkedin.com/in/YOUR-hasnaa-ahmed)  
-
-💻 GitHub: [evehasnaa](https://github.com/evehasnaa)  
 <p align="center">
-  <a href="[(https://drive.google.com/file/d/1mzRL_Ayhu5aZETCfj3oIpQpNrkqe2JyC/view?usp=drivesdk)]ا" target="_blank">
+  <a href="https://drive.google.com/file/d/1mzRL_Ayhu5aZETCfj3oIpQpNrkqe2JyC/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Download_My_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
