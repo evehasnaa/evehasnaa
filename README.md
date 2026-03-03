@@ -45,6 +45,11 @@
 🔗 LinkedIn: [Hasnaa Ahmed](https://linkedin.com/in/YOUR-hasnaa-ahmed)  
 
 💻 GitHub: [evehasnaa](https://github.com/evehasnaa)  
+<p align="center">
+  <a href="[(https://drive.google.com/file/d/1mzRL_Ayhu5aZETCfj3oIpQpNrkqe2JyC/view?usp=drivesdk)]ا" target="_blank">
+    <img src="https://img.shields.io/badge/Download_My_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -70,9 +75,11 @@
 
 ## 📈 GitHub Stats  
 
-![Hasnaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=evehasnaa&show_icons=true&theme=radical&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evehasnaa&layout=compact&theme=radical)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=evehasnaa&show_icons=true&theme=radical&count_private=true" alt="Hasnaa's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evehasnaa&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
