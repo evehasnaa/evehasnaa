@@ -21,9 +21,10 @@
 
 ## 🌟 About Me
 
-🎓 CS student @ Al-Azhar University · 📈 DEPI Data Analysis graduate.
-🏗️ I build **end-to-end data pipelines**: generated 1M synthetic healthcare records, engineered a **Medallion architecture** (Staging → Bronze → Silver → Gold) on SQL Server, and served it through a **Power BI semantic model**.
-🎯 Focus: **Analytics Engineering** — modeling, ETL/ELT, and the layer between raw data and real decisions.
+- 🎓 CS student @ Al-Azhar University · 📈 DEPI ,ITI and ALX Data Analysis graduate.
+- 🏗️ I build **end-to-end data pipelines**: generated 1M synthetic healthcare records, engineered a
+- **Medallion architecture** (Staging → Bronze → Silver → Gold) on SQL Server, and served it through a **Power BI semantic model**.
+- 🎯 Focus: **Analytics Engineering** — modeling, ETL/ELT, and the layer between raw data and real decisions.
 
 ---
 
