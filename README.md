@@ -1,10 +1,12 @@
-<img width="100%" height="100%" alt="banner" src="https://github.com/user-attachments/assets/4f0de36e-0d59-4350-a50c-e42d7674ce87" />
+<p align="center">
+  <img width="100%" alt="data analytics banner" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" />
+</p>
 
 <h1 align="center">👋 WELCOME TO HASNAA'S WORLD</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Analytics+Engineer+in+the+making+%F0%9F%9B%A0%EF%B8%8F;I+build+pipelines%2C+not+just+charts;Staging+%E2%86%92+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+%E2%86%92+%E2%9C%A8;chaos.csv+%E2%86%92+insights.pbix" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=734F96&center=true&vCenter=true&width=600&lines=Analytics+Engineer+in+the+making+%F0%9F%9B%A0%EF%B8%8F;I+build+pipelines%2C+not+just+charts;Staging+%E2%86%92+Bronze+%E2%86%92+Silver+%E2%86%92+Gold+%E2%86%92+%E2%9C%A8;chaos.csv+%E2%86%92+insights.pbix" alt="Typing SVG" />
   </a>
 </p>
 
@@ -129,19 +131,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=evehasnaa&show_icons=true&theme=radical&count_private=true" alt="Hasnaa's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evehasnaa&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-## 🔥 GitHub Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evehasnaa&theme=radical)
-
----
 
 <p align="center">
   <i>⭐ Stars are the only KPI I can't build a dashboard for.</i>
